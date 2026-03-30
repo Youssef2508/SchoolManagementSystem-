@@ -1,13 +1,13 @@
 🎓 School Management System
 
 📌 Overview
-This project is a simple School Management System built using ASP.NET Core & Entity Framework Core.
+- This project is a simple School Management System built using ASP.NET Core & Entity Framework Core.
 It demonstrates CRUD operations, basic validation, and clean architecture principles across multiple independent entities.
 
-Unlike complex systems, this project focuses on:
-- Simplicity
-- Data integrity
-- Clean separation of concerns
+- Unlike complex systems, this project focuses on:
+  - Simplicity
+  - Data integrity
+  - Clean separation of concerns
 
 🎯 Objective
 The goal of this project is to:
